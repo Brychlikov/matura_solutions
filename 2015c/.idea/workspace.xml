@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="53307b00-b26a-4661-b4ff-8251cb16e916" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dDwMS933n1aZieVlGZaFPJDc6u" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../2019c" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunManager" selected="Python.zad4">
+    <configuration name="zad4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="2015c" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zad4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="zad5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="2015c" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zad5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="zad6." type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="2015c" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zad6..py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.zad4" />
+        <item itemvalue="Python.zad6." />
+        <item itemvalue="Python.zad5" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="53307b00-b26a-4661-b4ff-8251cb16e916" name="Default Changelist" comment="" />
+      <created>1591972923375</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591972923375</updated>
+      <workItem from="1591972925053" duration="3190000" />
+      <workItem from="1592291267451" duration="5474000" />
+      <workItem from="1592318442487" duration="55000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1727" y="478" key="FileChooserDialogImpl" timestamp="1592318495432">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1727" y="478" key="FileChooserDialogImpl/0.0.2560.1440/2560.208.1280.1024@0.0.2560.1440" timestamp="1592318495432" />
+    <state width="2472" height="369" key="GridCell.Tab.0.bottom" timestamp="1592304986657">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2472" height="369" key="GridCell.Tab.0.bottom/0.0.2560.1440/2560.208.1280.1024@0.0.2560.1440" timestamp="1592304986657" />
+    <state width="2472" height="369" key="GridCell.Tab.0.center" timestamp="1592304986657">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2472" height="369" key="GridCell.Tab.0.center/0.0.2560.1440/2560.208.1280.1024@0.0.2560.1440" timestamp="1592304986657" />
+    <state width="2472" height="369" key="GridCell.Tab.0.left" timestamp="1592304986657">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2472" height="369" key="GridCell.Tab.0.left/0.0.2560.1440/2560.208.1280.1024@0.0.2560.1440" timestamp="1592304986657" />
+    <state width="2472" height="369" key="GridCell.Tab.0.right" timestamp="1592304986657">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2472" height="369" key="GridCell.Tab.0.right/0.0.2560.1440/2560.208.1280.1024@0.0.2560.1440" timestamp="1592304986657" />
+    <state width="2472" height="456" key="GridCell.Tab.1.bottom" timestamp="1592303186030">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2472" height="456" key="GridCell.Tab.1.bottom/0.0.2560.1440/2560.208.1280.1024@0.0.2560.1440" timestamp="1592303186030" />
+    <state width="2472" height="456" key="GridCell.Tab.1.center" timestamp="1592303186029">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2472" height="456" key="GridCell.Tab.1.center/0.0.2560.1440/2560.208.1280.1024@0.0.2560.1440" timestamp="1592303186029" />
+    <state width="2472" height="456" key="GridCell.Tab.1.left" timestamp="1592303186029">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2472" height="456" key="GridCell.Tab.1.left/0.0.2560.1440/2560.208.1280.1024@0.0.2560.1440" timestamp="1592303186029" />
+    <state width="2472" height="456" key="GridCell.Tab.1.right" timestamp="1592303186030">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2472" height="456" key="GridCell.Tab.1.right/0.0.2560.1440/2560.208.1280.1024@0.0.2560.1440" timestamp="1592303186030" />
+    <state x="940" y="533" width="658" height="345" key="com.intellij.ide.util.TipDialog" timestamp="1592318488967">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="940" y="533" width="658" height="345" key="com.intellij.ide.util.TipDialog/0.0.2560.1440/2560.208.1280.1024@0.0.2560.1440" timestamp="1592318488967" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/2015c$zad6_.coverage" NAME="zad6. Coverage Results" MODIFIED="1592303186017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/2015c$zad5.coverage" NAME="zad5 Coverage Results" MODIFIED="1592291984015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/2015c$zad4.coverage" NAME="zad4 Coverage Results" MODIFIED="1592304986650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
